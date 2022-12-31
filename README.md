@@ -1,6 +1,6 @@
 # AI-Fundamentals
 
-Collection of labs for APS360 (Aritifical Intelligence Fundamentals) course at University of Toronto for Fall 2022
+Collection of labs for APS360 (Applied Fundamentals of Deep Learning) course at University of Toronto for Fall 2022
 
 Lab 1: Introduction to Pytorch
 
